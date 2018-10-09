@@ -1,0 +1,7 @@
+[
+  "tests/test_MagnetFilter1.py::test_validar[(2+4)-3*(2+(4-5))-True]",
+  "tests/test_MagnetFilter1.py::test_validar[(2+5)-)(3))-False]",
+  "tests/test_MagnetFilter1.py::test_validar[((2*3))-True]",
+  "tests/test_MagnetFilter1.py::test_validar[((-False]",
+  "tests/test_MagnetFilter1.py::test_validar_TypeError"
+]
